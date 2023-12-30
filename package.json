@@ -1,0 +1,16 @@
+{
+  "name": "vet.com.br",
+  "version": "1.0.0",
+  "description": "https://vet.com.br é uma plataforma para contratação de serviços veterinários.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rafael Molina Martinez",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^14.0.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}

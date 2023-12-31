@@ -4,7 +4,7 @@
   "description": "https://vet.com.br é uma plataforma para contratação de serviços veterinários.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "next dev"
   },
   "author": "Rafael Molina Martinez",
   "license": "MIT",
